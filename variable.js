@@ -27,7 +27,7 @@ var estoyAburrido = false;
 console.log (estoyAburrido);
 console.log (estoyEntendiendo);
 
-//undefined
+//undefined:
 var tripode2;
 console.log (tripode2);
 
