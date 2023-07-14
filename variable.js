@@ -20,7 +20,7 @@ console.log(numeroEntero);
 console.log(numeroNegativo);
 console.log(numerodecimal);
 
-//booleanos : representan un valor logico es decir si/no v/f 
+//booleanos : representan un valor logico es decir si/no v/f.
 var estoyEntendiendo = true;
 
 var estoyAburrido = false;
